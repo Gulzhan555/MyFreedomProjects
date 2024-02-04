@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-top {
+    background-image: url("./img/clouds.png");
+    padding: 120px 145px 138px;
+}
+
+.header-bottom {
+
+}

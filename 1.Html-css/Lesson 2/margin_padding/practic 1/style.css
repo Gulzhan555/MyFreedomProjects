@@ -1,0 +1,18 @@
+@import url();
+{
+    font-family: 'Montserrat', san-serif;
+    }
+
+    . card{
+        width: 500px;
+        padding: 100px 90px 70px 70px;
+        border-width: 5px;
+        border-style: double;
+        border-color: black;
+        border: 5px ;
+    }
+
+    .card h2 {
+        margin-bottom: 20px;
+        
+    }

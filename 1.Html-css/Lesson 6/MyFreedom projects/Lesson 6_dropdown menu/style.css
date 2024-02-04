@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header_nav {
+    display: flex;
+    justify-content: center;
+    padding: 30px 15px;
+    background-color: rgb (56, 15, 56);
+    gap: 20px;
+}
+
+.header_nav a {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+.header_nav a:hover {
+    color: rgb (165, 165, 199);
+}
+
+.dropdown-menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 120%;
+    background-color: rgb (65, 65, 65);
+    border-bottom: 1px solid rgb (146, 133, 1);
+}
+
+
+.dropdown-menu a {
+    padding: 10px 15px;
+    border-bottom: 1px solid rgb (146, 133, 1);
+    text-wrap: nowrap;
+}

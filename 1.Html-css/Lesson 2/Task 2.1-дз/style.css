@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(249, 249, 221);
+    width: 100%;
+}
+
+header {
+    background-color: rgb(174, 40, 40);
+}
+
+h1 {text-align: center;
+    color: white;
+    background-color: rgb(174, 40, 40); 
+}
+
+.header_image {
+    display: block;
+    margin: 20px auto;
+}
+
+.main {
+    width: 400px;
+    margin-inline: auto;
+}
+
+.our_news h2 {
+    color: white;
+    background-color: rgb(174, 40, 40); 
+    }
+
+
+.our_news_article p {
+    font-size: 14px;
+}
+
+.our_news_article a {
+    color: grey;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+
+.our_team h2 {
+    color: white;
+    background-color: rgb(174, 40, 40); 
+}
+
+.our_team_employee {
+    border: 1px solid rgb(174, 40, 40);
+    border-radius: 7px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.our_team_employee p{
+    font-size: 14px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: rgb(174, 40, 40); 
+    padding: 30px 0;
+}

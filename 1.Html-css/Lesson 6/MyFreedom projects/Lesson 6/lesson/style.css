@@ -1,0 +1,21 @@
+.relative_div1 {
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+}
+
+.relative_div2 {
+    width: 400px;
+    height: 400px;
+    background-color: rgb (44, 165, 42);
+    /*margin-top:40px;*/
+    position: relative;
+    top: 40px;
+}
+
+.relative_div3 {
+    width: 400px;
+    height: 400px;
+    background-color: rgb (58, 42, 165);
+    position: relative;
+}
